@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xfdf xmlns="http://ns.adobe.com/xfdf/" xml:space="preserve">
+    <f href="https://ktarou.github.io/xfdf-poc/Final-Certificate-of-Capacity-Fax-Friendly-Fillable1.pdf" />
+    <fields>
+        <field name="AHPRA">
+            <value>1234567890</value>
+        </field>
+        <field name="Claim Number">
+            <value>7602383228</value>
+        </field>
+        <field name="Date of birth">
+            <value>September 10, 1935</value>
+        </field>
+        <field name="Email">
+            <value>CecilLFox@dayrep.com</value>
+        </field>
+        <field name="First Name">
+            <value>Cecil</value>
+        </field>
+        <field name="GP Address">
+            <value>88 Chester Street KOONYUM RANGE NSW 2482</value>
+        </field>
+        <field name="GP Name">
+            <value>Thomas J. Acuna</value>
+        </field>
+        <field name="GP fax">
+            <value>(02) 6779 0546</value>
+        </field>
+        <field name="GP phone">
+            <value>(02) 6779 0546</value>
+        </field>
+        <field name="Last Name">
+            <value>Fox</value>
+        </field>
+        <field name="Phone">
+            <value>(02) 4055 5376</value>
+        </field>
+        <field name="address">
+            <value>32 Edgewater Close CALLALA BEACH NSW 2540</value>
+        </field>
+        <field name="capacity for work big box">
+            <value>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quo studio Aristophanem putamus aetatem in litteris duxisse</value>
+        </field>
+        <field name="capacity for work performing">
+            <value>Yes</value>
+        </field>
+        <field name="clinical reason for worker's capacity/ incapacity">
+            <value>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quo studio Aristophanem putamus aetatem in litteris duxisse</value>
+        </field>
+        <field name="date of assessment">
+            <value>September 10, 1935</value>
+        </field>
+        <field name="date of injury">
+            <value>September 10, 1935</value>
+        </field>
+        <field name="days per week">
+            <value>5</value>
+        </field>
+        <field name="email">
+            <value>ThomasJAcuna@rhyta.com</value>
+        </field>
+        <field name="employers address">
+            <value>67 Ghost Hill Road QUAKERS HILL NSW 2763</value>
+        </field>
+        <field name="employers name">
+            <value>Elmer K. Hall</value>
+        </field>
+        <field name="employers phone number">
+            <value>(02) 8015 2191</value>
+        </field>
+        <field name="full capacity for work">
+            <value>Yes</value>
+        </field>
+        <field name="full capacity of work from">
+            <value>September 10, 1935</value>
+        </field>
+        <field name="gp date">
+            <value>October 20, 2016</value>
+        </field>
+        <field name="hours per day">
+            <value>8</value>
+        </field>
+        <field name="kg">
+            <value>40</value>
+        </field>
+        <field name="lift up to">
+            <value>Yes</value>
+        </field>
+        <field name="meters">
+            <value>200</value>
+        </field>
+        <field name="mins">
+            <value>10</value>
+        </field>
+        <field name="mins 2">
+            <value>10</value>
+        </field>
+        <field name="no longer result of the injury">
+            <value>Yes</value>
+        </field>
+        <field name="requires further treatment">
+            <value>Yes</value>
+        </field>
+        <field name="sit up to">
+            <value>Yes</value>
+        </field>
+        <field name="stand up to">
+            <value>Yes</value>
+        </field>
+        <field name="walk up to">
+            <value>Yes</value>
+        </field>
+        <field name="work below shoulder height">
+            <value>Yes</value>
+        </field>
+        <field name="workers condition">
+            <value>Yes</value>
+        </field>
+    </fields>
+    <ids original="55BB1BEEEBB1C949A6D75DB9DE7701E0" modified="32ADCC1F99FE0B43B7CE95E9AFA5D727" />
+</xfdf>
